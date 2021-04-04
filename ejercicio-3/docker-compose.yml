@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  backend:
+    image: ejercicio-3
+    ports:
+      - 80:80
+
