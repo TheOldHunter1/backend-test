@@ -11,3 +11,10 @@ npm install
 
 todas las aplicaciones fueron hechas bajo Node Js v14.16.0,
 las dependencias estan especificadas en cada archivo package.json junto a sus versiones.
+
+### Documentacion 
+
+Para las apis creadas, se genero una documentación con postman: 
+```
+https://documenter.getpostman.com/view/7260191/TzCQZmBq
+```
